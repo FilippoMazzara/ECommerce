@@ -5,7 +5,7 @@ It allows the creation and managing of users, the managing of the products they 
 
 This project was part of the course in web programming at the university "La Sapienza" in Rome.
 
-The Co-Authors and holders of the copyright (2022) are: /n
+The Co-Authors and holders of the copyright (2022) are: \n
 https://github.com/LucaDas00 /n
 https://github.com/kosmin1997 /n
 © Filippo Mazzara
