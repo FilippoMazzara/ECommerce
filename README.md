@@ -9,3 +9,4 @@ The Co-Authors and holders of the copyright (2022) are: <br>
 https://github.com/LucaDas00 <br>
 https://github.com/kosmin1997 <br>
 © Filippo Mazzara
+We do not own the rights to the images used as examples.
