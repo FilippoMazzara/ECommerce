@@ -8,5 +8,5 @@ This project was part of the course in web programming at the university "La Sap
 The Co-Authors and holders of the copyright (2022) are: <br>
 https://github.com/LucaDas00 <br>
 https://github.com/kosmin1997 <br>
-© Filippo Mazzara
+© Filippo Mazzara <br>
 We do not own the rights to the images used as examples.
